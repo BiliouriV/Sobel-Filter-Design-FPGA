@@ -1,6 +1,6 @@
 # Sobel Filter Design on FPGA
 
-by Biliouri Viktoria, Karamellios Sotirios
+by Biliouri Viktoria, Karamellios Sotirios.
 
 Sobel Filter (Software and Hardware) Implementation and Opimizations.
  
